@@ -1,0 +1,1124 @@
+Uri: https://m.facebook.com/cookie/consent-page/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fmilangotango.com%25252F%25253Fp%25253D3766%2526t%253DCookie%252BPolicy%2526s%253D100%2526p%25255Burl%25255D%253Dhttps%25253A%25252F%25252Fmilangotango.com%25252F%25253Fp%25253D3766%2526p%25255Bimages%25255D%25255B0%25255D%2526p%25255Btitle%25255D%253DCookie%252BPolicy%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Dit_IT&refsrc=deprecated&locale2=it_IT&_rdr
+File Name: D:\Cyotek\milangotango.com\cookie\consent-page\index-1.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent-page/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fmilangotango.com%25252F%2526t%253DMilan%252Bgo%252BTango%2526s%253D100%2526p%25255Burl%25255D%253Dhttps%25253A%25252F%25252Fmilangotango.com%25252F%2526p%25255Bimages%25255D%25255B0%25255D%253Dhttps%25253A%25252F%25252Fmilangotango.com%25252Fwp-content%25252Fuploads%25252Fsites%25252F2%25252F2015%25252F07%25252Fsfondo.jpg%2526p%25255Btitle%25255D%253DMilan%252Bgo%252BTango%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Dit_IT&refsrc=deprecated&locale2=it_IT&_rdr
+File Name: D:\Cyotek\milangotango.com\cookie\consent-page\index.htm
+Content Type: application/xhtml+xml
+
+Uri: https://milangotango.com/
+File Name: D:\Cyotek\milangotango.com\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/3639-2/
+File Name: D:\Cyotek\milangotango.com\3639-2\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/category/senza-categoria/
+File Name: D:\Cyotek\milangotango.com\category\senza-categoria\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/category/senza-categoria/feed/
+File Name: D:\Cyotek\milangotango.com\category\senza-categoria\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/category/tango/
+File Name: D:\Cyotek\milangotango.com\category\tango\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/category/tango/feed/
+File Name: D:\Cyotek\milangotango.com\category\tango\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/che-cose-il-tango-argentino/
+File Name: D:\Cyotek\milangotango.com\che-cose-il-tango-argentino\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/cookie-policy/
+File Name: D:\Cyotek\milangotango.com\cookie-policy\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/bellows.min.css
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\bellows.min.css
+Content Type: text/css
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/css/font-awesome.min.css
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/core/modules/45c2417754/assets/js/bellows.min.js
+File Name: D:\Cyotek\milangotango.com\core\modules\45c2417754\assets\js\bellows.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/32x32/facebook.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\32x32\facebook.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/32x32/twitter.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\32x32\twitter.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/32x32/youtube.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\32x32\youtube.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/96x96/facebook.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\96x96\facebook.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/96x96/mail.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\96x96\mail.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/96x96/twitter.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\96x96\twitter.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/59c124d65f/img/gray-transparent/96x96/youtube.png
+File Name: D:\Cyotek\milangotango.com\core\modules\59c124d65f\img\gray-transparent\96x96\youtube.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/613a8b2142/assets/infinitescroll/infinite-scroll.pkgd.min.js
+File Name: D:\Cyotek\milangotango.com\core\modules\613a8b2142\assets\infinitescroll\infinite-scroll.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/core/modules/613a8b2142/assets/swipebox/img/icons.png
+File Name: D:\Cyotek\milangotango.com\core\modules\613a8b2142\assets\swipebox\img\icons.png
+Content Type: image/png
+
+Uri: https://milangotango.com/core/modules/613a8b2142/assets/swipebox/img/loader.gif
+File Name: D:\Cyotek\milangotango.com\core\modules\613a8b2142\assets\swipebox\img\loader.gif
+Content Type: image/gif
+
+Uri: https://milangotango.com/core/modules/613a8b2142/assets/swipebox/jquery.swipebox.min.js
+File Name: D:\Cyotek\milangotango.com\core\modules\613a8b2142\assets\swipebox\jquery.swipebox.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/core/modules/613a8b2142/assets/swipebox/swipebox.min.css
+File Name: D:\Cyotek\milangotango.com\core\modules\613a8b2142\assets\swipebox\swipebox.min.css
+Content Type: text/css
+
+Uri: https://milangotango.com/core/modules/613a8b2142/js/front.js
+File Name: D:\Cyotek\milangotango.com\core\modules\613a8b2142\js\front.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/core/modules/7e4609f00f/images/td_back.gif
+File Name: D:\Cyotek\milangotango.com\core\modules\7e4609f00f\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://milangotango.com/core/modules/7e4609f00f/public/css/cookie-law-info-gdpr.css
+File Name: D:\Cyotek\milangotango.com\core\modules\7e4609f00f\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://milangotango.com/core/modules/7e4609f00f/public/css/cookie-law-info-public.css
+File Name: D:\Cyotek\milangotango.com\core\modules\7e4609f00f\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://milangotango.com/core/modules/7e4609f00f/public/css/cookie-law-info-table.css
+File Name: D:\Cyotek\milangotango.com\core\modules\7e4609f00f\public\css\cookie-law-info-table.css
+Content Type: text/css
+
+Uri: https://milangotango.com/core/modules/7e4609f00f/public/images/logo-cookieyes.svg
+File Name: D:\Cyotek\milangotango.com\core\modules\7e4609f00f\public\images\logo-cookieyes.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/core/modules/7e4609f00f/public/js/cookie-law-info-public.js
+File Name: D:\Cyotek\milangotango.com\core\modules\7e4609f00f\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/corso-per-insegnanti-di-tango/
+File Name: D:\Cyotek\milangotango.com\corso-per-insegnanti-di-tango\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/dove-siamo-e-contatti/
+File Name: D:\Cyotek\milangotango.com\dove-siamo-e-contatti\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/feed/
+File Name: D:\Cyotek\milangotango.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/folklore-argentino/
+File Name: D:\Cyotek\milangotango.com\folklore-argentino\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/il-bandoneon/
+File Name: D:\Cyotek\milangotango.com\il-bandoneon\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/il-galateo-della-milonga/
+File Name: D:\Cyotek\milangotango.com\il-galateo-della-milonga\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/la-filmografia-dedicata/
+File Name: D:\Cyotek\milangotango.com\la-filmografia-dedicata\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/lorigine-del-nome/
+File Name: D:\Cyotek\milangotango.com\lorigine-del-nome\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/m834bo-lib/css/dist/block-library/style.min.css
+File Name: D:\Cyotek\milangotango.com\m834bo-lib\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://milangotango.com/m834bo-lib/js/jquery/jquery-migrate.min.js
+File Name: D:\Cyotek\milangotango.com\m834bo-lib\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/m834bo-lib/js/jquery/jquery.min.js
+File Name: D:\Cyotek\milangotango.com\m834bo-lib\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/m834bo-lib/js/underscore.min.js
+File Name: D:\Cyotek\milangotango.com\m834bo-lib\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/m834bo-lib/js/wp-embed.min.js
+File Name: D:\Cyotek\milangotango.com\m834bo-lib\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/03/il-mosaico-danza-asd-scuola-in-milano.png
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\03\il-mosaico-danza-asd-scuola-in-milano.png
+Content Type: image/png
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/ballare-tango-150x150-160x160.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\ballare-tango-150x150-160x160.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/ballare-tango-150x150-320x320.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\ballare-tango-150x150-320x320.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/ballare-tango-150x150.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\ballare-tango-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/danzatori-247x300.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\danzatori-247x300.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/danzatori.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\danzatori.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/milonga-milano-150x150-160x160.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\milonga-milano-150x150-160x160.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/milonga-milano-150x150-320x320.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\milonga-milano-150x150-320x320.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/milonga-milano-150x150.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\milonga-milano-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/tango-argentino-dipinto-295x300.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\tango-argentino-dipinto-295x300.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/06/tango-argentino-dipinto.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\06\tango-argentino-dipinto.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/07/sfondo-300x113.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\07\sfondo-300x113.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/07/sfondo.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\07\sfondo.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/08/percussioni-africane-520x245.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\08\percussioni-africane-520x245.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/08/percussioni-africane-720x340.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\08\percussioni-africane-720x340.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/08/programma-formazione-insegnanti-300x176-520x245.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\08\programma-formazione-insegnanti-300x176-520x245.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/m834bo-storage/sites/2/2015/08/programma-formazione-insegnanti-300x176-720x340.jpg
+File Name: D:\Cyotek\milangotango.com\m834bo-storage\sites\2\2015\08\programma-formazione-insegnanti-300x176-720x340.jpg
+Content Type: image/jpeg
+
+Uri: https://milangotango.com/milonga-vals/
+File Name: D:\Cyotek\milangotango.com\milonga-vals\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/css/font-awesome.min.css
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/css/main.min.css
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\css\main.min.css
+Content Type: text/css
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-light-webfont.eot
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-light-webfont.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-light-webfont.svg
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-light-webfont.ttf
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-light-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-light-webfont.woff
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-light-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-lightitalic-webfont.eot
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-lightitalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-lightitalic-webfont.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-lightitalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-lightitalic-webfont.svg
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-lightitalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-lightitalic-webfont.ttf
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-lightitalic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-lightitalic-webfont.woff
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-lightitalic-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regular-webfont.eot
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regular-webfont.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regular-webfont.svg
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regular-webfont.ttf
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regular-webfont.woff
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regularitalic-webfont.eot
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regularitalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regularitalic-webfont.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regularitalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regularitalic-webfont.svg
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regularitalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regularitalic-webfont.ttf
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regularitalic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-regularitalic-webfont.woff
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-regularitalic-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-semibold-webfont.eot
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-semibold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-semibold-webfont.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-semibold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-semibold-webfont.svg
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-semibold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-semibold-webfont.ttf
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-semibold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/fonts/titillium-semibold-webfont.woff
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\fonts\titillium-semibold-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/img/ie/opacity-70.png
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\img\ie\opacity-70.png
+Content Type: image/png
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/img/ie/opacity-80-light.png
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\img\ie\opacity-80-light.png
+Content Type: image/png
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/img/opacity-10.png
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\img\opacity-10.png
+Content Type: image/png
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/img/pre.png
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\img\pre.png
+Content Type: image/png
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/js/libs/mobile-detect.min.js
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\js\libs\mobile-detect.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/js/scripts.min.js
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.eot?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.svg?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.ttf?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.woff2?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.woff?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.eot?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.svg?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.ttf?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.woff2?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.woff?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.eot?
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.eot?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.svg?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.ttf?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.woff2?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://milangotango.com/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.woff?v=5.15.2
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://milangotango.com/mosaico-tema/6857fc90e4/style.css
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\6857fc90e4\style.css
+Content Type: text/css
+
+Uri: https://milangotango.com/mosaico-tema/hueman/style.css
+File Name: D:\Cyotek\milangotango.com\mosaico-tema\hueman\style.css
+Content Type: text/css
+
+Uri: https://milangotango.com/musica/
+File Name: D:\Cyotek\milangotango.com\musica\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/orario-e-pedagogia/
+File Name: D:\Cyotek\milangotango.com\orario-e-pedagogia\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/scegliere-una-scuola/
+File Name: D:\Cyotek\milangotango.com\scegliere-una-scuola\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/argentino/
+File Name: D:\Cyotek\milangotango.com\tag\argentino\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/argentino/feed/
+File Name: D:\Cyotek\milangotango.com\tag\argentino\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/argentino/page/2/
+File Name: D:\Cyotek\milangotango.com\tag\argentino\page\2\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/chacarera/
+File Name: D:\Cyotek\milangotango.com\tag\chacarera\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/chacarera/feed/
+File Name: D:\Cyotek\milangotango.com\tag\chacarera\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/contatti/
+File Name: D:\Cyotek\milangotango.com\tag\contatti\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/contatti/feed/
+File Name: D:\Cyotek\milangotango.com\tag\contatti\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/corsi/
+File Name: D:\Cyotek\milangotango.com\tag\corsi\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/corsi/feed/
+File Name: D:\Cyotek\milangotango.com\tag\corsi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/cortinas/
+File Name: D:\Cyotek\milangotango.com\tag\cortinas\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/cortinas/feed/
+File Name: D:\Cyotek\milangotango.com\tag\cortinas\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/danza/
+File Name: D:\Cyotek\milangotango.com\tag\danza\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/danza/feed/
+File Name: D:\Cyotek\milangotango.com\tag\danza\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/danza/page/2/
+File Name: D:\Cyotek\milangotango.com\tag\danza\page\2\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/filmografia-tango-argentino/
+File Name: D:\Cyotek\milangotango.com\tag\filmografia-tango-argentino\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/filmografia-tango-argentino/feed/
+File Name: D:\Cyotek\milangotango.com\tag\filmografia-tango-argentino\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/fimografia/
+File Name: D:\Cyotek\milangotango.com\tag\fimografia\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/fimografia/feed/
+File Name: D:\Cyotek\milangotango.com\tag\fimografia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/folklore-argentino/
+File Name: D:\Cyotek\milangotango.com\tag\folklore-argentino\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/folklore-argentino/feed/
+File Name: D:\Cyotek\milangotango.com\tag\folklore-argentino\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/folklore/
+File Name: D:\Cyotek\milangotango.com\tag\folklore\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/folklore/feed/
+File Name: D:\Cyotek\milangotango.com\tag\folklore\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/gato/
+File Name: D:\Cyotek\milangotango.com\tag\gato\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/gato/feed/
+File Name: D:\Cyotek\milangotango.com\tag\gato\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/lezioni/
+File Name: D:\Cyotek\milangotango.com\tag\lezioni\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/lezioni/feed/
+File Name: D:\Cyotek\milangotango.com\tag\lezioni\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/loreto/
+File Name: D:\Cyotek\milangotango.com\tag\loreto\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/loreto/feed/
+File Name: D:\Cyotek\milangotango.com\tag\loreto\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/malambo/
+File Name: D:\Cyotek\milangotango.com\tag\malambo\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/malambo/feed/
+File Name: D:\Cyotek\milangotango.com\tag\malambo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/meri-franco/
+File Name: D:\Cyotek\milangotango.com\tag\meri-franco\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/meri-franco/feed/
+File Name: D:\Cyotek\milangotango.com\tag\meri-franco\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/milano/
+File Name: D:\Cyotek\milangotango.com\tag\milano\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/milano/feed/
+File Name: D:\Cyotek\milangotango.com\tag\milano\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/milonga/
+File Name: D:\Cyotek\milangotango.com\tag\milonga\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/milonga/feed/
+File Name: D:\Cyotek\milangotango.com\tag\milonga\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/musica-tango/
+File Name: D:\Cyotek\milangotango.com\tag\musica-tango\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/musica-tango/feed/
+File Name: D:\Cyotek\milangotango.com\tag\musica-tango\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/musica/
+File Name: D:\Cyotek\milangotango.com\tag\musica\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/musica/feed/
+File Name: D:\Cyotek\milangotango.com\tag\musica\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/orario/
+File Name: D:\Cyotek\milangotango.com\tag\orario\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/orario/feed/
+File Name: D:\Cyotek\milangotango.com\tag\orario\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/pedagogia-danza/
+File Name: D:\Cyotek\milangotango.com\tag\pedagogia-danza\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/pedagogia-danza/feed/
+File Name: D:\Cyotek\milangotango.com\tag\pedagogia-danza\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/pedagogia-tango/
+File Name: D:\Cyotek\milangotango.com\tag\pedagogia-tango\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/pedagogia-tango/feed/
+File Name: D:\Cyotek\milangotango.com\tag\pedagogia-tango\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/porta-romana/
+File Name: D:\Cyotek\milangotango.com\tag\porta-romana\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/porta-romana/feed/
+File Name: D:\Cyotek\milangotango.com\tag\porta-romana\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/scuola-di-ballo/
+File Name: D:\Cyotek\milangotango.com\tag\scuola-di-ballo\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/scuola-di-ballo/feed/
+File Name: D:\Cyotek\milangotango.com\tag\scuola-di-ballo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/scuola/
+File Name: D:\Cyotek\milangotango.com\tag\scuola\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/scuola/feed/
+File Name: D:\Cyotek\milangotango.com\tag\scuola\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/tandas/
+File Name: D:\Cyotek\milangotango.com\tag\tandas\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/tandas/feed/
+File Name: D:\Cyotek\milangotango.com\tag\tandas\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/tango-argentino/
+File Name: D:\Cyotek\milangotango.com\tag\tango-argentino\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/tango-argentino/feed/
+File Name: D:\Cyotek\milangotango.com\tag\tango-argentino\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/tango-argentino/page/2/
+File Name: D:\Cyotek\milangotango.com\tag\tango-argentino\page\2\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/tango/
+File Name: D:\Cyotek\milangotango.com\tag\tango\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/tango/feed/
+File Name: D:\Cyotek\milangotango.com\tag\tango\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/tango/page/2/
+File Name: D:\Cyotek\milangotango.com\tag\tango\page\2\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/vals/
+File Name: D:\Cyotek\milangotango.com\tag\vals\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/vals/feed/
+File Name: D:\Cyotek\milangotango.com\tag\vals\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tag/zamba/
+File Name: D:\Cyotek\milangotango.com\tag\zamba\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/tag/zamba/feed/
+File Name: D:\Cyotek\milangotango.com\tag\zamba\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotango.com/tandas-e-cortinas/
+File Name: D:\Cyotek\milangotango.com\tandas-e-cortinas\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/un-po-di-storia/
+File Name: D:\Cyotek\milangotango.com\un-po-di-storia\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/vecchio-e-nuovo-mondo/
+File Name: D:\Cyotek\milangotango.com\vecchio-e-nuovo-mondo\index.htm
+Content Type: text/html
+
+Uri: https://milangotango.com/wp-json/
+File Name: D:\Cyotek\milangotango.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2F3639-2%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2F3639-2%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fche-cose-il-tango-argentino%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fche-cose-il-tango-argentino%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fcookie-policy%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fcookie-policy%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fcorso-per-insegnanti-di-tango%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fcorso-per-insegnanti-di-tango%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fdove-siamo-e-contatti%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fdove-siamo-e-contatti%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Ffolklore-argentino%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Ffolklore-argentino%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fil-bandoneon%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fil-bandoneon%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fil-galateo-della-milonga%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fil-galateo-della-milonga%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fla-filmografia-dedicata%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fla-filmografia-dedicata%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Florigine-del-nome%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Florigine-del-nome%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fmilonga-vals%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fmilonga-vals%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fmusica%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fmusica%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Forario-e-pedagogia%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Forario-e-pedagogia%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fscegliere-una-scuola%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fscegliere-una-scuola%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Ftandas-e-cortinas%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Ftandas-e-cortinas%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fun-po-di-storia%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fun-po-di-storia%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fvecchio-e-nuovo-mondo%2F
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotango.com%2Fvecchio-e-nuovo-mondo%2F&format=xml
+File Name: D:\Cyotek\milangotango.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://milangotango.com/wp-json/wp/v2/categories/1
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/categories/3
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/pages/3766
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\pages\3766
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/pages/6
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/21
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\21
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/24
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\24
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/28
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\28
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/30
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\30
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3531
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3531
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3552
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3552
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3553
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3553
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3588
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3588
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3594
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3594
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3611
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3611
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3639
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3639
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3643
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3643
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/3731
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\3731
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/62
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\62
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/67
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\67
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/posts/69
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\posts\69
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/10
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\10
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/11
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\11
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/12
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\12
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/13
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\13
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/14
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\14
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/15
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\15
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/16
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\16
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/17
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\17
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/19
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\19
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/20
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\20
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/21
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\21
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/22
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\22
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/23
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\23
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/24
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\24
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/25
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\25
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/26
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\26
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/27
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\27
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/28
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\28
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/29
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\29
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/30
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\30
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/31
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\31
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/32
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\32
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/33
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\33
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/34
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\34
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/4
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\4
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/5
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\5
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/6
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\6
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/7
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\7
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/8
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\8
+Content Type: application/json
+
+Uri: https://milangotango.com/wp-json/wp/v2/tags/9
+File Name: D:\Cyotek\milangotango.com\wp-json\wp\v2\tags\9
+Content Type: application/json
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: D:\Cyotek\milangotango.com\analytics.js
+Content Type: text/javascript
+
+Uri: https://www.ilmosaicodanza.it/wp-content/uploads/2014/12/scuola-di-tango-milano.jpg
+File Name: D:\Cyotek\milangotango.com\wp-content\uploads\2014\12\scuola-di-tango-milano.jpg
+Content Type: image/jpeg
+
